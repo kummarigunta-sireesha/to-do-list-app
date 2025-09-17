@@ -10,7 +10,7 @@ It allows users to add, complete, and delete tasks, with data stored in **LocalS
 - Persistent storage using LocalStorage
 
 ## 📷 Screenshot
-(Upload a screenshot of your app here)
+![WhatsApp Image 2025-09-17 at 15 17 52_a87e49de](https://github.com/user-attachments/assets/d5b9a32b-c399-4f18-a17b-a2dda741cd5a)
 
 ## ⚡ How to Run
 1. Clone the repository:
