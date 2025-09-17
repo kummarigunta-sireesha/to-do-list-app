@@ -15,4 +15,4 @@ It allows users to add, complete, and delete tasks, with data stored in **LocalS
 ## ⚡ How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/to-do-list-app.git
+   git clone https://kummarigunta-sireesha.github.io/to-do-list-app/
